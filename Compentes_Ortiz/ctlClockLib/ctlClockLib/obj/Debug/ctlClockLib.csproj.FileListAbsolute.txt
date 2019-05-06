@@ -1,0 +1,13 @@
+D:\componentsample\ctlClockLib\ctlClockLib\obj\Debug\ctlClockLib.ctlClockLib.resources
+D:\componentsample\ctlClockLib\ctlClockLib\obj\Debug\ctlClockLib.csproj.GenerateResource.Cache
+D:\componentsample\ctlClockLib\ctlClockLib\bin\Debug\ctlClockLib.dll
+D:\componentsample\ctlClockLib\ctlClockLib\bin\Debug\ctlClockLib.pdb
+D:\componentsample\ctlClockLib\ctlClockLib\obj\Debug\ctlClockLib.dll
+D:\componentsample\ctlClockLib\ctlClockLib\obj\Debug\ctlClockLib.pdb
+C:\Users\graura\Dropbox\Docencia\ProgAvanzada\UnidadI\componentsample\ctlClockLib\ctlClockLib\bin\Debug\ctlClockLib.pdb
+C:\Users\graura\Dropbox\Docencia\ProgAvanzada\UnidadI\componentsample\ctlClockLib\ctlClockLib\bin\Debug\ZonasHorarias.txt
+C:\Users\graura\Dropbox\Docencia\ProgAvanzada\UnidadI\componentsample\ctlClockLib\ctlClockLib\bin\Debug\ctlClockLib.dll
+C:\Users\graura\Dropbox\Docencia\ProgAvanzada\UnidadI\componentsample\ctlClockLib\ctlClockLib\obj\Debug\ctlClockLib.ctlClockLib.resources
+C:\Users\graura\Dropbox\Docencia\ProgAvanzada\UnidadI\componentsample\ctlClockLib\ctlClockLib\obj\Debug\ctlClockLib.csproj.GenerateResource.Cache
+C:\Users\graura\Dropbox\Docencia\ProgAvanzada\UnidadI\componentsample\ctlClockLib\ctlClockLib\obj\Debug\ctlClockLib.dll
+C:\Users\graura\Dropbox\Docencia\ProgAvanzada\UnidadI\componentsample\ctlClockLib\ctlClockLib\obj\Debug\ctlClockLib.pdb

@@ -1,0 +1,6 @@
+﻿Madrid,+7
+Buenos Aires,+4
+Miami,+1
+Brasilia,+2
+Quito,+0
+Antártida,-12 

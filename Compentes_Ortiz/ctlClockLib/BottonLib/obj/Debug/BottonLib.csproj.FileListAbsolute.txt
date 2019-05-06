@@ -1,0 +1,7 @@
+C:\Users\graura\Dropbox\Docencia\ProgAvanzada\UnidadI\componentsample\ctlClockLib\BottonLib\bin\Debug\BottonLib.dll
+C:\Users\graura\Dropbox\Docencia\ProgAvanzada\UnidadI\componentsample\ctlClockLib\BottonLib\bin\Debug\BottonLib.pdb
+C:\Users\graura\Dropbox\Docencia\ProgAvanzada\UnidadI\componentsample\ctlClockLib\BottonLib\obj\Debug\BottonLib.Properties.Resources.resources
+C:\Users\graura\Dropbox\Docencia\ProgAvanzada\UnidadI\componentsample\ctlClockLib\BottonLib\obj\Debug\BottonLib.MiBoton.resources
+C:\Users\graura\Dropbox\Docencia\ProgAvanzada\UnidadI\componentsample\ctlClockLib\BottonLib\obj\Debug\BottonLib.csproj.GenerateResource.Cache
+C:\Users\graura\Dropbox\Docencia\ProgAvanzada\UnidadI\componentsample\ctlClockLib\BottonLib\obj\Debug\BottonLib.dll
+C:\Users\graura\Dropbox\Docencia\ProgAvanzada\UnidadI\componentsample\ctlClockLib\BottonLib\obj\Debug\BottonLib.pdb
